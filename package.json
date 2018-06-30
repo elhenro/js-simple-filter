@@ -1,0 +1,22 @@
+{
+  "name": "filter-js",
+  "version": "1.0.0",
+  "description": "simple filter tool to remove lines with multiple occurences",
+  "main": "filter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elhenro/js-simple-filter.git"
+  },
+  "author": "elhenor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elhenro/js-simple-filter/issues"
+  },
+  "homepage": "https://github.com/elhenro/js-simple-filter#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
